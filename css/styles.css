@@ -44,8 +44,9 @@ body{
     text-align: center;
 }
 
-.weather-city{
+.weather-city {
     font-size: 30px;
+    text-align: center;
 }
 
 .search_city {
